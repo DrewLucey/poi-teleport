@@ -34,8 +34,8 @@
 		}
 	],
 	"manifest": "https://github.com/DrewLucey/poi-teleport/releases/latest/download/module.json",
-	"url": "https://github.com/DrewLucey/poi-teleport",
-	"download": "https://github.com/DrewLucey/poi-teleport/releases/latest/download/poi-teleport.zip",
+	"url": "https://github.com/zeel01/poi-teleport",
+	"download": "https://github.com/zeel01/poi-teleport/releases/latest/download/poi-teleport.zip",
 	"readme": "https://github.com/DrewLucey/poi-teleport/blob/master/readme.md",
 	"bugs": "https://github.com/DrewLucey/poi-teleport/issues",
 	"changelog": "https://github.com/DrewLucey/poi-teleport/releases",
